@@ -40,6 +40,39 @@ ul {
     color: #E5E7EB;
 }
 
+.hero-container {
+    display: flex;
+    gap: 50px;
+    background-color: #1F2937;
+    align-items: center;
+    /* border: 2px solid red; */
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.hero-left > h1 {
+    margin-top: 0;
+    color: #F9FAF8;
+}
+
+.hero-left > p {
+    color: #E5E7EB;
+}
+
+.hero-left > button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius:2px;
+    border: none;
+    padding: 5px 20px;
+}
+
+.hero-image {
+    width:200px;
+    height: auto;
+    border: none;
+}
+
 footer {
     min-height: 75px;
     background-color: #1F2937;
