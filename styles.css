@@ -39,3 +39,12 @@ ul {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+footer {
+    min-height: 75px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+}
