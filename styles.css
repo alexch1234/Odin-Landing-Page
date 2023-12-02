@@ -106,6 +106,28 @@ ul {
     width: 150px;
 }
 
+.quote-container {
+    background-color: #E7E5EB;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+    font-family: Arial;
+    margin-bottom: 0;
+}
+
+.quote-ref {
+    margin-top: 0;
+    text-align: right;
+    font-family: Arial;
+    font-weight: bold;
+}
+
 footer {
     min-height: 75px;
     background-color: #1F2937;
