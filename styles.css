@@ -107,7 +107,7 @@ ul {
 }
 
 .quote-container {
-    background-color: #E7E5EB;
+    background-color: #E5E7EB;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -126,6 +126,45 @@ ul {
     text-align: right;
     font-family: Arial;
     font-weight: bold;
+}
+
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.signup {
+    border-radius: 5px;
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 100px;
+    gap: 50px
+}
+
+.signup-text {
+    color: #F9FAF8;
+} 
+
+.signup-text > h3 {
+    margin-bottom: 0;
+    font-size: 24px;
+}
+
+.signup-text > p {
+    margin-top: 0;
+}
+
+.signup-button {
+    background-color: #3882F6;
+    border: 2px solid white;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 20px;
 }
 
 footer {
